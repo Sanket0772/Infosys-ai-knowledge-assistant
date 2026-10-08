@@ -134,3 +134,56 @@ The project includes tool integration functionality as part of the AI workflow a
 | Testing | Python Testing Framework |
 | Deployment | Vercel / Render |
 ---
+
+## 🏗️ Architecture
+
+The application follows a modular frontend, backend, AI workflow, and knowledge-processing architecture.
+
+```text
+                         User
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Next.js Frontend│
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ FastAPI Backend │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   AI Workflow   │
+                  └────────┬────────┘
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+   Query Classification  RAG Retrieval  Tool Selection
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                  Grounded Synthesis
+                           │
+                           ▼
+                    Citation Builder
+                           │
+                           ▼
+                    Answer Validation
+                           │
+                           ▼
+                    Final Response
+
+
+
+## 👥 Team Members
+
+- **Sanket Arun Patil**
+- ** Pulkit Narang**
+- **Sayan Modak**
+- **Soumyakanta Mishra**
+- **Subhansu Bose**
+- **Chandra Akash Kiran**
+- **M.S. Pavan Shankar**
+- **Shruti Vishwas Deshpande**
