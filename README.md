@@ -133,57 +133,30 @@ The project includes tool integration functionality as part of the AI workflow a
 | Security | Authentication, JWT, RBAC |
 | Testing | Python Testing Framework |
 | Deployment | Vercel / Render |
+
+
+
+
+<img width="993" height="1115" alt="image" src="https://github.com/user-attachments/assets/022a55e8-30a8-4a93-96f6-252b3d072a5a" />
+
+
+
+#👥 Team Members
+
+Sanket Arun Patil
+
+Pulkit Narang
+
+Sayan Modak
+
+Soumyakanta Mishra
+
+Subhansu Bose
+
+Chandra Akash Kiran
+
+M.S. Pavan Shankar
+
+Shruti Vishwas Deshpande
 ---
 
-## 🏗️ Architecture
-
-The application follows a modular frontend, backend, AI workflow, and knowledge-processing architecture.
-
-```text
-                         User
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Next.js Frontend│
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ FastAPI Backend │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   AI Workflow   │
-                  └────────┬────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-   Query Classification  RAG Retrieval  Tool Selection
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                           ▼
-                  Grounded Synthesis
-                           │
-                           ▼
-                    Citation Builder
-                           │
-                           ▼
-                    Answer Validation
-                           │
-                           ▼
-                    Final Response
-
-
-
-## 👥 Team Members
-
-- **Sanket Arun Patil**
-- ** Pulkit Narang**
-- **Sayan Modak**
-- **Soumyakanta Mishra**
-- **Subhansu Bose**
-- **Chandra Akash Kiran**
-- **M.S. Pavan Shankar**
-- **Shruti Vishwas Deshpande**
