@@ -5,7 +5,7 @@ AI Knowledge Assistant for enterprise document retrieval, grounded answers, cita
 
 - **GitHub:** https://github.com/Sanket0772/Infosys-ai-knowledge-assistant
 - **Live Demo:** https://infosys-ai-knowledge-assistant.vercel.app
-- **Demo Video:** ADD GOOGLE DRIVE LINK
+- **Demo Video:** https://drive.google.com/file/d/10YVTOg304rodocW9JIFqo41gpk8O8Qun/view?usp=sharing
 
 ### Login Credentials
 
