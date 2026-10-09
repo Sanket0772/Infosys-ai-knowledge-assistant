@@ -4,9 +4,13 @@ AI Knowledge Assistant for enterprise document retrieval, grounded answers, cita
 # 🔗 Project Links
 
 - **GitHub:** https://github.com/Sanket0772/Infosys-ai-knowledge-assistant
-- **Live Demo:** ADD LIVE LINK
+- **Live Demo:** https://infosys-ai-knowledge-assistant.vercel.app
 - **Demo Video:** ADD GOOGLE DRIVE LINK
 
+### Login Credentials
+
+Role: Administrator
+Password : Admin@12345
 ## 📌 Project Overview
 
 The **Infosys AI Knowledge Assistant** is a Generative AI-powered enterprise knowledge management system designed to help employees quickly find reliable information from internal documents.
