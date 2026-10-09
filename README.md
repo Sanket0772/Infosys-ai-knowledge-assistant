@@ -140,6 +140,29 @@ The project includes tool integration functionality as part of the AI workflow a
 <img width="993" height="1115" alt="image" src="https://github.com/user-attachments/assets/022a55e8-30a8-4a93-96f6-252b3d072a5a" />
 
 
+# Screenshots
+
+<img width="1912" height="1070" alt="image" src="https://github.com/user-attachments/assets/c5670caf-2bdf-427b-977d-06dab4e67ab5" />
+
+<img width="1902" height="917" alt="image" src="https://github.com/user-attachments/assets/5f26aefa-55bc-4dc7-bdd9-38b1fc0f30ad" />
+
+
+⚠️ Known Limitations
+
+Although the Infosys AI Knowledge Assistant provides a structured approach to enterprise knowledge retrieval, some limitations remain:
+
+1. Dependency on Available Documents
+
+The quality and accuracy of answers depend on the availability, completeness, and relevance of the documents uploaded to the knowledge base.
+
+2. Limited Knowledge Coverage
+
+The assistant can only provide reliable answers when sufficient relevant information is available in its approved knowledge sources. It may be unable to answer questions about information that is missing from the indexed documents.
+
+3. Future Enhancements
+
+Potential improvements include more comprehensive evaluation, better retrieval accuracy, enhanced document parsing, improved error handling, and additional monitoring for reliability and performance.
+
 
 #👥 Team Members
 
@@ -158,5 +181,6 @@ Chandra Akash Kiran
 M.S. Pavan Shankar
 
 Shruti Vishwas Deshpande
----
+
+
 
